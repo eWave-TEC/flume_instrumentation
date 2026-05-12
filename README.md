@@ -1,2 +1,2 @@
-# Tank_intru
-This repo contains all code used for the instrumentation for the wave tank generator.
+# Flume instrumentation
+This repo contains all the code used for the wave flume's instrumentation and operation.
